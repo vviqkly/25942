@@ -1,0 +1,10 @@
+Child process started
+
+Test file for tasks
+hello
+task5  &  task6
+ file  txt
+data
+jjj
+
+Child process finished
